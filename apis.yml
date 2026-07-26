@@ -1,8 +1,17 @@
 aid: ezcater
 name: ezCater
-description: 'ezCater is a company surfaced as a portfolio company of iconiq-capital, insight-partners,
-  lightspeed-venture-partners, softbank-vision-fund and added to the API Evangelist network as a stub
-  for enrichment. Sector: marketplace. This profile is a lead awaiting the enrichment pipeline.'
+description: >-
+  ezCater is a corporate and workplace catering marketplace that connects businesses
+  with a nationwide network of local restaurants and caterers. Founded in 2007 and
+  headquartered in Boston, the platform lets organizations order food online for
+  meetings, events, and recurring team meals, and layers workplace-food management
+  on top: meal programs, per-team and per-location spend controls, group ordering,
+  delivery coordination, and centralized invoicing and reporting. ezCater serves
+  companies of every size across the United States and is backed by ICONIQ Capital,
+  Insight Partners, Lightspeed Venture Partners, and the SoftBank Vision Fund. The
+  company does not publish a public developer API; integrations are arranged through
+  its enterprise and partner sales channels. This API Evangelist profile tracks the
+  company's public developer, security, and trust surface.
 url: https://raw.githubusercontent.com/api-evangelist/ezcater/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,12 +22,31 @@ x-backed-by:
 - softbank-vision-fund
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://www.ezcater.com/wp-content/themes/ezcater/assets/images/ezcater-logo.svg
 tags:
 - Company
 - Marketplace
+- Catering
+- Food
+- Food Delivery
+- Corporate Catering
+- Restaurants
+- Workplace
+- E-Commerce
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -28,3 +56,26 @@ maintainers:
 common:
 - type: Website
   url: https://www.ezcater.com/
+- type: Blog
+  url: https://www.ezcater.com/lunchrush
+- type: Support
+  url: https://help.ezcater.io/en/
+- type: HelpCenter
+  url: https://help.ezcater.io/en/
+- type: TermsOfService
+  url: https://www.ezcater.com/terms_of_use
+- type: PrivacyPolicy
+  url: https://www.ezcater.com/privacy_policy
+- type: TrustCenter
+  url: https://security.ezcater.com/
+- type: Compliance
+  url: https://security.ezcater.com/
+- type: DomainSecurity
+  url: security/ezcater-domain-security.yml
+- type: LLMsTxt
+  url: llms/ezcater-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

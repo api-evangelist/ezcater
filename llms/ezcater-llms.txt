@@ -1,0 +1,23 @@
+# ezCater
+
+> ezCater is a corporate and workplace catering marketplace connecting businesses with a nationwide network of local restaurants and caterers. The platform supports meal-program management, per-team and per-location spend controls, and centralized invoicing for workplace food solutions. ezCater does not publish a public developer API; integration is handled through its enterprise/partner sales channel.
+
+## Company
+- [ezCater](https://www.ezcater.com/): Corporate catering marketplace homepage.
+- [Lunch Rush Blog](https://www.ezcater.com/lunchrush): Workplace catering, food guides, and office-culture articles.
+- [Careers](https://www.ezcater.com/company/careers): ezCater careers.
+
+## Support
+- [Help Center](https://help.ezcater.io/en/): Customer help and support documentation.
+- [Contact Us](https://www.ezcater.com/contact-us): Contact ezCater.
+
+## Security & Trust
+- [Security / Trust Profile](https://security.ezcater.com/): Whistic-hosted trust profile listing PCI, SOC 2, CAIQ-Lite, SIG Lite, and HECVAT assessments.
+
+## Legal
+- [Terms of Use](https://www.ezcater.com/terms_of_use): Terms of service.
+- [Privacy Policy](https://www.ezcater.com/privacy_policy): Privacy policy.
+
+## Notes
+- No public developer portal, OpenAPI specification, SDKs, or MCP server were found during enrichment (2026-07-19).
+- Generated from the API Evangelist catalog record (apis.yml); ezCater publishes no /llms.txt of its own.
